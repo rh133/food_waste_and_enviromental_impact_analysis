@@ -1,4 +1,4 @@
--- GLOBAL FOOD WASTE - Exploratory Data analysis Case Study (SQL PROJECT)
+-- Global Food Waste and Environmental Impact Analysis - Exploratory Data analysis Case Study (SQL PROJECT)
 -- Author: Rahma Ahmed
 -- Description: This SQL case study explores the different sources of food waste and the affect of each on the enviroment, and the affect of each on the enviroment through produced CO2 emissions, as well as explore the relationship between food waste and GDP across countries using two datasets: food_waste_source_by_country and gdp_by_country.
 -- Data sources:
