@@ -1,4 +1,5 @@
-# food_waste_and_enviromental_impact_analysis
+# Food Waste and Enviromental Impact Analysis -  Exploratory Case Study using SQL (BigQuery)
+
 This project explores the sources of food waste and the impact each has on the environment through CO₂ emissions. It also investigates whether food waste levels correlate with a country’s financial status, measured by GDP per capita.
 
 ### Project Introduction 
