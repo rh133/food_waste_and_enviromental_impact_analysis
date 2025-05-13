@@ -1,6 +1,6 @@
-# Food Waste and Enviromental Impact Analysis -  Exploratory Case Study using SQL (BigQuery)
+# Food Waste and Environmental Impact Analysis -  Exploratory Case Study using SQL (BigQuery)
 
-This project explores the sources of food waste and the impact each has on the environment through CO₂ emissions. It also investigates whether food waste levels correlate with a country’s financial status, measured by GDP per capita.
+This project explores the sources of food waste and the impact each has on the Environmental through CO₂ emissions. It also investigates whether food waste levels correlate with a country’s financial status, measured by GDP per capita.
 
 ### Project Introduction 
 A few weeks ago i saw a post that said if we want to reduce CO2 emission produced by food waste, we should "start in our own kitchens", which i found really interesting and worth pondering, and it got me wondering, is the amount of food waste we produce in our own homes actually more than that of all of these fast food restaurants and all the grocery stores ? and if so, does the amount of food wasted vary or have any type of relationship or correlation to the financial status of the country? this inspired me to look at this issue through a data-driven lense, and start this project to fact check this claim and learn more about this issue!
